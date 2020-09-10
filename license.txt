@@ -1,0 +1,2 @@
+This website was created to learn about git in worshop by Uttam Kini H 
+You are free to use this website as it is  open source

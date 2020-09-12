@@ -8,10 +8,14 @@ This repository was created in order to learn about git and github. Let us follo
 
 Go to this website [Github-Workshop](https://git-workshop.netlify.app/) :cloud: the first thing you see after opening the website is that it contains plenty of cards and each  card has its own name **Card title** So now we are going to change the name of any one of the card from **Card title** to **Your Text**.
 
+
+
 ### :point_right: Step 2
 
 In the top Right corner of this page you can see the **Fork symbol :fork_and_knife:** click on that and it will create a copy of code :page_facing_up:
 to your github Repository :pushpin:
+
+
 
 ### :point_right: Step 3
 
@@ -20,6 +24,8 @@ While you are in the forked repository of the github page, there you can see the
 ```bash
 git clone https://github.com/YOUR_USERNAME/Git-Workshop
 ```
+
+
 ### :point_right: Step 4
 
 Now lets go the the **Git-Workshop** folder by running this command :pencil2:
@@ -47,6 +53,8 @@ code index.html
 ```
 scroll down the HTML code where you have to  rename :pencil: any one of the **card title** to **your text**
 
+
+
 ### :point_right: Step 6
 
 After saving :bookmark: your file now we have to **add** and **commit** our file to our local git directory.
@@ -62,6 +70,8 @@ To **commit** :paperclip: our file use this command and type suitable comments.
 git commit -m "Yourtext"
 ```
 
+
+
 ### :point_right: Step 7
 
 Now we need to push your repository :file_folder: to your remote repository :globe_with_meridians:
@@ -70,6 +80,8 @@ Now we need to push your repository :file_folder: to your remote repository :glo
 git push -u origin branchname
 ```
 branchname is the name given to your branch in **step 4**
+
+
 
 ### :point_right: Step 8
 

@@ -10,8 +10,8 @@ Go to this website [Github-Workshop](https://git-workshop.netlify.app/) :cloud: 
 
 ### :point_right: Step 2
 
-In the top Right corner of this page you can see the **Fork symbol :fork_and_knife:** click on that and it will create a copy of code :page_facing_up: to your 
-github Repository :pushpin:
+In the top Right corner of this page you can see the **Fork symbol :fork_and_knife:** click on that and it will create a copy of code :page_facing_up:
+to your github Repository :pushpin:
 
 ### :point_right: Step 3
 

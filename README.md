@@ -14,7 +14,7 @@ Go to this website [Github-Workshop](https://git-workshop.netlify.app/) :cloud: 
 In the top Right corner of this page you can see the **Fork symbol :fork_and_knife:** click on that and it will create a copy of code :page_facing_up:
 to your github Repository :pushpin:
 
----
+***
 ### :point_right: Step 3
 
 While you are in the forked repository of the github page, there you can see the green text-box **Code** click on that and copy the **https** URL and now we will have to clone this repository :closed_book: to our local machine :computer: by this command 

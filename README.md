@@ -6,11 +6,12 @@ This repository was created in order to learn about git and github. Let us follo
 ***
 ### :point_right: Step 1
 
-Go to this website [Github-Workshop](https://git-workshop.netlify.app/) :cloud: the first thing you see after opening the website is that it contains plenty of cards and each card has its own name **Card title** So now we are going to change the name of any one of the card from **Card title** to **Your Text**.
+Go to this website [Github-Workshop](https://git-workshop.netlify.app/) :cloud: the first thing you see after opening the website is that it contains plenty of cards and each  card has its own name **Card title** So now we are going to change the name of any one of the card from **Card title** to **Your Text**.
 
 ### :point_right: Step 2
 
-In the top Right corner of this page you can see the **Fork symbol :fork_and_knife:** click on that and it will create a copy of code :page_facing_up: to your github Repository :pushpin:
+In the top Right corner of this page you can see the **Fork symbol :fork_and_knife:** click on that and it will create a copy of code :page_facing_up: to your 
+github Repository :pushpin:
 
 ### :point_right: Step 3
 

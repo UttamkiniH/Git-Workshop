@@ -50,7 +50,7 @@ let us open :open_file_folder: the **index.html** since we are using VS code as 
 ```bash 
 code index.html
 ```
-scroll down the HTML code where you have to  rename :pencil: any one of the **card title** to **your text**
+scroll down the HTML source code and where you have to  rename :pencil: any one of the **card title** to **your text**
 
 
 ---
